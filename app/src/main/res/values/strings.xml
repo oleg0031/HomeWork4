@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeWork4</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="slide_up">Slide up</string>
+    <string name="rotate">Rotate</string>
+    <string name="slide_out">Slide out</string>
+    <string name="bounce">Bounce</string>
+</resources>
